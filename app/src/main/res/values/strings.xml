@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SearchGitHub</string>
+    <string name="search_hint">Masukan username</string>
+    <string name="Nama">Nama</string>
+    <string name="Username">Username</string>
+    <string name="followers">followers</string>
+    <string name="following">Following</string>
+    <string name="lokasi">lokasi</string>
+    <string name="company">company</string>
+    <string name="repository">repository</string>
+    <string name="follow_base">0</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
